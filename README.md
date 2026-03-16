@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi 👋 I'm Chidimma Uzokife
 
-<!--
-**chidimma-ai/chidimma-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & Embedded Systems Developer passionate about building intelligent automation systems and computer vision applications.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Artificial Intelligence
+- Embedded Systems
+- Microcontroller Programming
+- Computer Vision
+- Automation Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- Cashew Fruit Disease Detection AI
+- Traffic Light Control System
+- Lift Control System
+- Factory Gate Automation System
+- Plate Number Recognition System
+- Breast Cancer Expert System
+
+## 📫 Contact
+Email: chidimma.ai2026@gmail.com
+Portfolio: https://github.com/chidimma-ai/portfolio
